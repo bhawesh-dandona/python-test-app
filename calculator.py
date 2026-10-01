@@ -14,7 +14,7 @@ class Calculator:
         return a - b
 
     def multiply(self, a, b):
-        """Multiply two numbers."""
+        """Multiply two numbers.""" 
         return a * b
 
     def divide(self, a, b):
