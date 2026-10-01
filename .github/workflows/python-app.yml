@@ -1,7 +1,5 @@
 # GitHub Actions workflow to run Python unit tests on every push to main
 
-name: Python unit tests
-
 name: Python application
 on:
   push:
